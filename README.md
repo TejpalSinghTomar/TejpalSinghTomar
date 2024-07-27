@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @TejpalSinghTomar
+- 👀 I’m interested in Novels,Sports.
+- 🌱 I’m currently learning Cybersecurity and Ethical hacking.
+- 📫 You can reach me via my mail (tejpalsinghtomar91@gmail.com)
+- ⚡ Fun fact: " The only limit to your realization of tommorow will be your doubts of Today " 
