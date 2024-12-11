@@ -5,10 +5,7 @@
 I am a second-year B.Tech IT student with a keen interest in cybersecurity and ethical hacking. Passionate about securing digital systems, I am eager to learn, explore vulnerabilities, and contribute to creating a safer cyberspace.
 
 ## Objective
-[Provide Objective]
-[Provide Objective - Remove this afterwards]]
-
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+To showcase my journey and projects in cybersecurity and ethical hacking, demonstrating skills in vulnerability assessment, threat analysis, and secure coding practices. This Platform serves as a platform to share tools, tutorials, and solutions aimed at enhancing digital security and fostering a safer cyberspace.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project]
@@ -24,24 +21,16 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
-## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link]
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
-
-### Network
-<div>
-@@ -46,9 +46,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
-</div>
-
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link]
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
-<img src="https://img.shields.io/badge/-CISSP-0052CC?style=for-the-badge&logo=ISC2&logoColor=white" />
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-@@ -57,6 +56,5 @@ My journey in computer science has led me to develop a passion for cybersecurity
+<img src="Industrial Training Certificate (Tejpal Singh Tomar )_page-0001.jpg" height = "200" width = "100"/>
+<img src="Internship Completion Certificate (Tejpal Singh Tomar )_page-0001.jpg" height = "200" width = "100"/>
+<img src="cybrary-cert-cryptographic-hash-functions_page-0001.jpg" height = "200" width = "100"/>
+<img src="cybrary-cert-ip-addressing-basics_page-0001.jpg" height = "200" width = "100"/>
+<img src="cybrary-cert-network-device-basics_page-0001.jpg" height = "200" width = "100"/>
+<img src="cybrary-cert-network-reference-models_page-0001.jpg" height = "200" width = "100"/>
+  
+My journey in Information Technology has led me to develop a passion for cybersecurity.
 </div>
 
 ## Projects
