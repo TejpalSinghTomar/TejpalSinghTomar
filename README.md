@@ -8,8 +8,6 @@ I am a second-year B.Tech IT student with a keen interest in cybersecurity and e
 To showcase my journey and projects in cybersecurity and ethical hacking, demonstrating skills in vulnerability assessment, threat analysis, and secure coding practices. This Platform serves as a platform to share tools, tutorials, and solutions aimed at enhancing digital security and fostering a safer cyberspace.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project]
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
