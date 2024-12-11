@@ -23,7 +23,7 @@ To showcase my journey and projects in cybersecurity and ethical hacking, demons
 
 ## Certifications
 <div>
-<img src="Industrial Training Certificate (Tejpal Singh Tomar )_page-0001.jpg" height = "200" width = "100"/>
+<img src="Industrial Training Certificate (Tejpal Singh Tomar )_page-0001.jpg" height = "200" width = "150"/>
 <img src="Internship Completion Certificate (Tejpal Singh Tomar )_page-0001.jpg" height = "200" width = "100"/>
 <img src="cybrary-cert-cryptographic-hash-functions_page-0001.jpg" height = "200" width = "100"/>
 <img src="cybrary-cert-ip-addressing-basics_page-0001.jpg" height = "200" width = "100"/>
