@@ -11,9 +11,9 @@ To showcase my journey and projects in cybersecurity and ethical hacking, demons
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://github.com/Test-MyDFIR/Detection-Lab/tree/main">Detection Lab</a>|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| SIEM Implementation and Log Analysis          | Detection Lab
+| SIEM Implementation and Log Analysis          | Detection Lab
+| Network Traffic Monitoring and Attack Detection | Detection Lab
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
