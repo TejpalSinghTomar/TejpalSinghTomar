@@ -33,7 +33,7 @@ My journey in Information Technology has led me to develop a passion for cyberse
 </div>
 
 ## Projects
-- <a href="https://github.com/Test-MyDFIR/Detection-Lab/tree/main">Detection Lab</a>
+- Detection Lab
 - Detection Lab
 - SOC Automation Project
 - Test Project
