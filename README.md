@@ -12,7 +12,6 @@ To showcase my journey and projects in cybersecurity and ethical hacking, demons
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | Detection Lab
-| SIEM Implementation and Log Analysis          | Detection Lab
 | Network Traffic Monitoring and Attack Detection | Detection Lab
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
@@ -34,6 +33,4 @@ My journey in Information Technology has led me to develop a passion for cyberse
 
 ## Projects
 - Detection Lab
-- Detection Lab
 - SOC Automation Project
-- Test Project
